@@ -4,7 +4,7 @@
 
 [Ouvrir la carte](https://meriem-creator.github.io/testtttt/#diapo-4)
 
-Dernier envoi : 03/11/2026 18:53.
+Dernier envoi : 03/11/2026 19:36.
 
 Le HTML est généré localement après recalcul des intersections. Pour actualiser le site, régénérer le HTML puis relancer le script de publication.
 
